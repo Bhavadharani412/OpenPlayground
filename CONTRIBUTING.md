@@ -121,6 +121,7 @@ projects/your-project-name/
    - Add a new object to the array with your project details using this template:
 
    ```bash
+   [
    {
       "title": "Your Project Name",
   "category": "utility",
@@ -129,7 +130,8 @@ projects/your-project-name/
   "link": "./projects/your-project-name/index.html",
   "icon": "ri-your-icon-name",
   "coverClass": "your-project-cover"
-   }  
+   }
+   ]  
    ```
 
 **Note:** _Valid categories include `utility`, `game`, `puzzle`, `productivity`, etc._
@@ -137,7 +139,8 @@ projects/your-project-name/
 3. **Add CSS for your project card**
 
    - If you used a `coverClass` (e.g., `your-project-cover`) in step 2, add the styling in `css/style.css` :
-   ```bash
+
+   ```copy
    .your-project-cover {
     background: linear-gradient(135deg, #color1 0%, #color2 100%);
     color: white; /* Optional: adjust text color if needed */
