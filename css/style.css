@@ -761,6 +761,7 @@ html[data-theme="dark"] .section-badge {
 .weather-cover { background: linear-gradient(135deg, #e0f2fe 0%, #7dd3fc 100%); color: #0369a1; }
 .palette-cover { background: linear-gradient(135deg, #fce7f3 0%, #fbcfe8 100%); color: #db2777; }
 .memory-cover { background: linear-gradient(135deg, #ddd6fe 0%, #c4b5fd 100%); color: #7c3aed; }
+.keyboard-key-cover { background: linear-gradient(135deg, #ffe18a 0%, #fc826f 100%); color: #69372f; }
 
 .card-content {
     padding: var(--space-5);

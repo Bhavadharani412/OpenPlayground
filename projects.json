@@ -187,5 +187,14 @@
     "link": "./projects/typing-speed-test/index.html",
     "icon": "ri-keyboard-line",
     "coverClass": "typing-cover"
+  },
+  {
+    "title": "Keyboard Key Detector",
+    "category": "utility",
+    "description": "Detect and display the keys pressed on your keyboard.",
+    "tech": ["HTML", "CSS", "JS"],
+    "link": "./projects/keyboard-key-detector/index.html",
+    "icon": "ri-tools-line",
+    "coverClass": "typing-cover"
   }
 ]
